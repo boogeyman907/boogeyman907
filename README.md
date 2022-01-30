@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boogeyman907
-- 👀 I’m interested in ...Front End Devloper
-- 🌱 I’m currently learning ...Back END
+- 👀 I’m interested in ...Full Stack Devloper
+- 🌱 I’m currently learning ...front END
 - 💞️ I’m looking to collaborate Soon
 - 📫 How to reach me @here
 
